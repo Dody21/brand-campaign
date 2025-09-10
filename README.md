@@ -16,3 +16,45 @@ Fokus utama adalah merancang **campaign pemasaran digital** selama periode 3 bul
 3) copywriting-&-communication/    -> berisi file Excel konsep copywriting, konten copywriting, dan poster iklan
 4) public-speaking/                -> script detail public speaking
 5) README.md
+
+## 📊 Isi Project
+1. **Data Science In Media (Excel)**
+   - Data perusahaan
+   - Data berita di media  
+   - Analisis
+
+2. **Perencanaan Campaign (Excel)**  
+   - Strategi bulanan (bulan 1–3)
+   - Tujuan campaign  
+   - Target audience & positioning  
+   - Channel distribusi & KPI yang ingin dicapai  
+
+3. **Copywriting & Communication (Excel)**  
+   - Materi komunikasi untuk iklan digital  
+   - Pesan yang disesuaikan dengan target audience  
+
+4. **Public Speaking Script (Docs)**  
+   - Naskah presentasi yang digunakan untuk memaparkan campaign  
+   - Berfokus pada penyampaian ide yang persuasif dan jelas  
+
+---
+
+## 🛠 Tools yang Digunakan
+- Microsoft Excel → perencanaan campaign  
+- Microsoft Word → script presentasi & copywriting  
+- Canva / PowerPoint → desain visual presentasi  
+
+---
+
+## 👨‍💻 Kontributor
+- **Dodi Prayoga** – Universitas Budi Luhur  
+
+---
+
+## 🔗 Catatan
+Project ini merupakan bagian dari kegiatan **MSIB VI – Kampus Merdeka** dan berfokus pada pengembangan keterampilan di bidang:
+- Data Science
+- Business Development
+- Digital Copywriter
+- Digital Communication  
+- Public Speaking
