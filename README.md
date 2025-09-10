@@ -58,3 +58,6 @@ Project ini merupakan bagian dari kegiatan **MSIB VI – Kampus Merdeka** dan be
 - Digital Copywriter
 - Digital Communication  
 - Public Speaking
+
+## 📷 Preview
+![Campaign Poster](docs/poster-aqua.png)
