@@ -15,7 +15,8 @@ Fokus utama adalah merancang **campaign pemasaran digital** selama periode 3 bul
 2) business-development/           -> berisi file Excel rencana brand campaign
 3) copywriting-&-communication/    -> berisi file Excel konsep copywriting, konten copywriting, dan poster iklan
 4) public-speaking/                -> script detail public speaking
-5) README.md
+5) kontencopywriting-posteriklan   -> hasil copywriting dan poster iklan brand
+6) README.md
 
 ## 📊 Isi Project
 1. **Data Science In Media (Excel)**
