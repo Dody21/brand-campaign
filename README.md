@@ -11,8 +11,8 @@ Fokus utama adalah merancang **campaign pemasaran digital** selama periode 3 bul
 - Strategi public speaking
 
 ## Struktur Repository
-├── data-science-in-media/   -> berisi file Excel data brand AQUA Air Minum Dalam Kemasan (AMDK)
-├── business-development/   -> berisi file Excel rencana brand campaign
-├── copywriting-&-communication/   -> berisi file Excel konsep copywriting, konten copywriting, dan poster iklan
-├── public-speaking/   -> script detail public speaking
-└── README.md
+1) data-science-in-media/          -> berisi file Excel data brand AQUA Air Minum Dalam Kemasan (AMDK)
+2) business-development/           -> berisi file Excel rencana brand campaign
+3) copywriting-&-communication/    -> berisi file Excel konsep copywriting, konten copywriting, dan poster iklan
+4) public-speaking/                -> script detail public speaking
+5) README.md
