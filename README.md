@@ -60,4 +60,4 @@ Project ini merupakan bagian dari kegiatan **MSIB VI – Kampus Merdeka** dan be
 - Public Speaking
 
 ## 📷 Preview
-![Campaign Poster](docs/poster-aqua.png)
+![Campaign Poster](kontencopywriting-posteriklan/Poster-Iklan-3.png)
